@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **computer engineering in University of Santiago de Compostela**
 
+- 📍 Member of the GDG-Sdc (Google Development Groups Santiago de Compostela)
+
 - 💬 Ask me about **C, Java, PostgreSQL**
 
 - 📫 How to reach me **iago.feijoo.rey@gmail.com**
