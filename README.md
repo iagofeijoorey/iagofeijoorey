@@ -5,7 +5,7 @@
 
 - 📍 Member of the GDG-Sdc (Google Development Groups Santiago de Compostela)
 
-- 💬 Ask me about **C, Java, PostgreSQL**
+- 💬 Learning **C, C++, Java, HTML, CSS, JavaScript, PostgreSQL** and more to come.
 
 - 📫 How to reach me **iago.feijoo.rey@gmail.com**
 
