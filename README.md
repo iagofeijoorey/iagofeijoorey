@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Iago Feijóo</h1>
-<h3 align="center">A passionate computer engineer student from Spain</h3>
+<h1 align="center">👋 Hey! I'm Iago Feijóo</h1>
+<h3 align="center">A computer engineer student from Spain</h3>
 
-- 🌱 I’m currently learning **computer engineering in University of Santiago de Compostela**
+🌱 I’m currently studying **Computer Engineering** at the University of Santiago de Compostela (USC)
 
-- 📍 Member of the GDG-Sdc (Google Development Groups Santiago de Compostela)
+🎮 I’m especially interested in game development and modding, exploring how to create worlds that share and reflect my ideas
 
-- 🎮 I’m especially interested in game development and modding, exploring how to create worlds that sahre and reflect my ideas.
+💬 Focused on C++, Java, Minecraft Functions and HTML
 
-- 💬 Learning **C, C++, Java, HTML, CSS, JavaScript, PostgreSQL** and more to come.
+📍 Member of the GDG-Sdc (Google Development Groups Santiago de Compostela)
 
 ## 🌐 Languages
 - **Spanish**: Native
@@ -40,3 +40,5 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
 </p>
+
+- 🚧 Always improving my code and writing clearer, most is work in progress haha!
