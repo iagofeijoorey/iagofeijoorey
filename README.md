@@ -16,10 +16,6 @@
 ## 📫 How to reach me
 - **Email**: iagofeijoorey@gmail.com
 - **LinkedIn**: www.linkedin.com/in/iagofeijoorey
-
-
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iagofeijoorey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iagofeijoorey" height="30" width="40" /></a>
 <a href="https://instagram.com/iago.sedona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iago.sedona" height="30" width="40" /></a>
