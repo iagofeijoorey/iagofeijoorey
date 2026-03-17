@@ -52,3 +52,7 @@
 </p>
 
 - 🚧 Always improving my code and writing clearer, most is work in progress haha!
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iagofeijoorey&layout=compact&theme=dark)
+
