@@ -16,7 +16,7 @@
 ## 📫 How to reach me
 <p align="left">
 <a href="mailto:iagofeijoorey@gmail.com" target="blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="40" />
+  <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="30" />
 </a>
 <a href="https://www.linkedin.com/in/iagofeijoorey" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
