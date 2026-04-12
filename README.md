@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey! I'm Iago Feijóo</h1>
 <h3 align="center">A computer engineer student from Spain</h3>
 
-🌱 I’m currently studying **Computer Engineering** at the University of Santiago de Compostela (USC)
+🌱 **Computer Engineering** student at the University of Santiago de Compostela (USC)
 
 🎮 I’m especially interested in game development and modding, exploring how to create worlds that share and reflect my ideas
 
