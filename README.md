@@ -56,5 +56,5 @@
 - 🚧 Always improving my code and writing clearer, most is work in progress haha!
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iagofeijoorey&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iagofeijoorey&layout=compact&theme=dark)
 
