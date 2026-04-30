@@ -3,9 +3,9 @@
 
 🌱 **Computer Engineering** student at the University of Santiago de Compostela (USC)
 
-🎮 I’m especially interested in game development and modding, exploring how to create worlds that share and reflect my ideas
+🎮 I'm especially interested in game development and modding, exploring how to create worlds that share and reflect my ideas
 
-💬 Focused on C++, Java, Minecraft Functions and HTML
+💬 Focused on C++, Java and now learning MCF (Minecraft Functions)
 
 📍 Member of the GDG-Sdc (Google Development Groups Santiago de Compostela)
 
@@ -14,30 +14,11 @@
 - **English**: C1 Level (Cambridge)
 
 ## 📫 How to reach me
-<div>
-<p align="left">
-<a href="mailto:iagofeijoorey@gmail.com" target="blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="30" />
-</a>
-<a href="https://www.linkedin.com/in/iagofeijoorey" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://twitter.com/iagofeijoorey" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/iago.sedona" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://discordapp.com/users/imjakub" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-</a>
-</p>
-</div>
 
+<p align="left"><a href="mailto:iagofeijoorey@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="30" /></a><a href="https://www.linkedin.com/in/iagofeijoorey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a><a href="https://twitter.com/iagofeijoorey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a><a href="https://instagram.com/iago.sedona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a><a href="https://discordapp.com/users/imjakub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a></p>
 
+## 🛠️ Languages and Tools
 
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
@@ -55,9 +36,6 @@
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
 </p>
 
-- 🚧 Always improving my code and writing clearer, most is work in progress haha!
+🚧 Always improving my code and writing clearer, most is work in progress haha!
 
-
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iagofeijoorey&layout=compact&theme=dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iagofeijoorey&layout=compact&theme=dark)
