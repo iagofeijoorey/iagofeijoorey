@@ -18,6 +18,7 @@
 🌐 **Languages**
 - **Spanish**: Native
 - **English**: C1 Level (Cambridge)
+- **Galician**: Native
 
 
 
