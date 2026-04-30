@@ -5,7 +5,7 @@
 
 🎮 I'm especially interested in game development and modding, exploring how to create worlds that share and reflect my ideas
 
-💬 Focused on C++, Java and now learning MCF (Minecraft Functions)
+💬 Focused on C#, C++, Java and now learning MCF (Minecraft Functions)
 
 📍 Member of the GDG-Sdc (Google Development Groups Santiago de Compostela)
 
@@ -15,7 +15,13 @@
 
 ## 📫 How to reach me
 
-<p align="left"><a href="mailto:iagofeijoorey@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="30" /></a><a href="https://www.linkedin.com/in/iagofeijoorey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a><a href="https://twitter.com/iagofeijoorey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a><a href="https://instagram.com/iago.sedona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a><a href="https://discordapp.com/users/imjakub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a></p>
+<table><tr>
+<td><a href="mailto:iagofeijoorey@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="30" /></a></td>
+<td><a href="https://www.linkedin.com/in/iagofeijoorey" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
+<td><a href="https://twitter.com/iagofeijoorey" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a></td>
+<td><a href="https://instagram.com/iago.sedona" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
+<td><a href="https://discordapp.com/users/imjakub" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a></td>
+</tr></table>
 
 ## 🛠️ Languages and Tools
 
