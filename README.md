@@ -15,17 +15,27 @@
 
 ## 📫 How to reach me
 
-<table><tr>
-<td><a href="mailto:iagofeijoorey@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" height="30" width="30" /></a></td>
-<td><a href="https://www.linkedin.com/in/iagofeijoorey" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
-<td><a href="https://twitter.com/iagofeijoorey" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a></td>
-<td><a href="https://instagram.com/iago.sedona" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a></td>
-<td><a href="https://discordapp.com/users/imjakub" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a></td>
-</tr></table>
+<p align="center">
+  <a href="mailto:iagofeijoorey@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/iagofeijoorey" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/iagofeijoorey" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://instagram.com/iago.sedona" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discordapp.com/users/imjakub" target="blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
@@ -47,7 +57,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=iagofeijoorey&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagofeijoorey&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iagofeijoorey&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagofeijoorey&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iagofeijoorey&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
