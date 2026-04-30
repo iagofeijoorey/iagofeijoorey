@@ -68,13 +68,13 @@
 
 <!--
 
-## 🔨 Currently Working On
+## 💻 Current projects
+- Sarshein Valley [WIP] - Side project
+- SynergyBound (By Nicobra) [WIP] - Side project
+- The Blind King [WIP] - Side project 
+  > *Un juego Escort Roguelike de Scroll Lateral en Unity donde protegerás a un rey ciego que avanza constantemente por niveles llenos de peligro. Tú eres su única defensa — muévete libremente, intercepta enemigos y mantenlo con vida mientras el mundo avanza sin esperarte.* -> **Stack:** `Unity` · `C#` · `Blender`
 
-### 👁️ The Blind King
 
-> *Un juego Escort Roguelike de Scroll Lateral en Unity donde protegerás a un rey ciego que avanza constantemente por niveles llenos de peligro. Tú eres su única defensa — muévete libremente, intercepta enemigos y mantenlo con vida mientras el mundo avanza sin esperarte.*
-
-**Stack:** `Unity` · `C#` · `Blender`
 
 <br>
 
