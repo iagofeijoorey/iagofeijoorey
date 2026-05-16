@@ -6,7 +6,7 @@
 
 🎮 I'm especially interested in game development and modding, exploring how to create worlds that share and reflect my ideas
 
-💬 Focused on C#, C++, Java and now learning MCF (Minecraft Functions) and 3D modeling using Blender!
+💬 Focused on C#, C++, Java and now learning MCF (Minecraft Functions) and 3D hard surface modeling using Blender!
 
 📍 Member of the GDG-Sdc (Google Development Groups Santiago de Compostela) - DevFest 2024/2025 - Impacthon 2025
 
