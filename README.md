@@ -89,7 +89,7 @@
   <summary>Show stats</summary>
   <br>
   <p align="center">
-    <img height="170 src="https://github-readme-stats-nine-et8-64.vercel.app/api?username=iagofeijoorey&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="170" src="https://github-readme-stats-nine-et8-64.vercel.app/api?username=iagofeijoorey&show_icons=true&theme=tokyonight&hide_border=true" />
     <img height="170" src="https://github-readme-stats-nine-et8-64.vercel.app/api/top-langs/?username=iagofeijoorey&layout=compact&theme=tokyonight&hide_border=true" />
   </p>
   <p align="center">
