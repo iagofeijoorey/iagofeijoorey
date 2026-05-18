@@ -89,8 +89,8 @@
   <summary>Show stats</summary>
   <br>
   <p align="center">
-    <img height="170" src="https://github-readme-stats-nine-et8-64.vercel.app/api?username=iagofeijoorey&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="170" src="https://github-readme-stats-nine-et8-64.vercel.app/api/top-langs/?username=iagofeijoorey&layout=compact&theme=tokyonight&hide_border=true" />
+    <img height="170" src="https://github-readme-stats-nine-eta-64.vercel.app/api?username=iagofeijoorey&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
+    <img height="170" src="https://github-readme-stats-nine-eta-64.vercel.app/api/top-langs/?username=iagofeijoorey&layout=compact&theme=tokyonight&hide_border=true&v=2" />
   </p>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=iagofeijoorey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
