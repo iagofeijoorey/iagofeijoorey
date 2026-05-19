@@ -38,12 +38,12 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postgres" />
 </p>
 
-**Design & Game Dev**
+**Design, Game Dev & Modding**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender,ps,gimp" />
+  <img src="https://skillicons.dev/icons?i=unity,blender,ps" />
 </p>
-
+<!-- habria que añadir GIMP, pero no aparece en las badges aunque lo escriba -->
 
 
 
