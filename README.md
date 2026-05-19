@@ -41,7 +41,7 @@
 **Design & Game Dev**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender,ps" />
+  <img src="https://skillicons.dev/icons?i=unity,blender,ps,gimp" />
 </p>
 
 
